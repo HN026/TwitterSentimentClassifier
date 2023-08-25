@@ -1,7 +1,5 @@
 === TWEETSENTIMENTCLASSIFIER===
 
-This README describes the format, file and directory structure associated with TweetEval, the benchmark associated with the Findings of EMNLP 2020 paper "TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification".
-
 === DIRECTORY STRUCTURE ===
 
 {dataset} = - train_text.txt
